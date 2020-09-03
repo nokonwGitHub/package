@@ -1,0 +1,27 @@
+{
+  "name": "auto2http",
+  "version": "1.0.0",
+  "description": "自动生成http文件",
+  "main": "./src/index.js",
+  "keywords": [
+    "WebStorm",
+    "http",
+    "api"
+  ],
+  "scripts": {
+    "test": "node test/index.js",
+    "bulid": "webpack --config ./webpackconfig/index.js"
+  },
+  "author": {
+    "email": "18235444391@163.com",
+    "name": "李艳鹏"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.6.2",
+    "moment": "^2.27.0"
+  },
+  "typings": "./src/index.d.ts",
+  "devDependencies": {
+  }
+}

@@ -1,0 +1,34 @@
+
+###  生成时间 2020年9月3日星期四下午3点24分
+###  描述：测试
+POST http://localhost:2569/api/query?name=丽萨
+Content-Type: application/json
+Accept: application/json
+         
+{
+  "order_in": "",
+  "order_out": "",
+  "orderNo": "",
+  "goods_name": "",
+  "goods_id": "",
+  "deal_tel": "",
+  "contact_tel": "",
+  "idCard": "",
+  "status": "",
+  "time": [],
+  "area": "",
+  "broadband_account": "",
+  "order_channel": [],
+  "sale_channel": "",
+  "logistics_num": "",
+  "payment_num": "",
+  "accept_num": [],
+  "servername": "",
+  "business_type": [],
+  "uploginno": "",
+  "custname": "测试",
+  "external": 2,
+  "curPage": 1,
+  "pageSize": 10
+}
+###
